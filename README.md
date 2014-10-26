@@ -20,6 +20,7 @@ getting and cleaning data
 	Creates a second tidy data set, “tidydata2” with the average of each variable for each activity and each subject
 
 Codebook for the 81 columns of tidydata2:
+----------------------------------------
 
 1. id
 2. activity
