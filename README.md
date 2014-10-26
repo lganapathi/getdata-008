@@ -2,6 +2,7 @@ getdata-008
 ===========
 
 getting and cleaning data
+getting and cleaning data
 
 •	The script “run_analysis.R” needs "plyr" package. Make sure it is installed.
 •	It needs to  “setInternet2(use=TRUE)” for the download to work properly from https sites
@@ -102,6 +103,7 @@ Codebook for the 81 columns of tidydata2:
 "79" "fBodyBodyGyroMag.meanFreq.._mean"
 "80" "fBodyBodyGyroJerkMag.mean.._mean"
 "81" "fBodyBodyGyroJerkMag.meanFreq.._mean"
+
 
 
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.  
